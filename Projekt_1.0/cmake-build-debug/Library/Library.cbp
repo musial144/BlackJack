@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Library"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Program\;CMake Files\Library\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check">
+				<Option working_dir="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 check"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Library">
+				<Option output="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/libLibrary.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 Library"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Library/fast">
+				<Option output="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/libLibrary.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 Library/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibraryTest">
+				<Option output="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/LibraryTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 LibraryTest"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibraryTest/fast">
+				<Option output="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/LibraryTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 LibraryTest/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/include/CardRepositoryException.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/include/PlayerRepositoryException.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/include/TableException.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/Card.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/CardManager.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/CardRepository.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/CardRepositoryException.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/Hand.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/Player.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/PlayerManager.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/PlayerRepository.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/PlayerRepositoryException.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/Table.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/src/TableException.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/test/CardManagerTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/test/CardRepositoryTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/test/CardTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/test/HandTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/test/PlayerManagerTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/test/PlayerRepositoryTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/test/PlayerTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/test/TableTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/test/master.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Program/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Program\"/>
+		</Unit>
+		<Unit filename="/home/student/Pulpit/BlackJack/Projekt_1.0/Library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Library\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

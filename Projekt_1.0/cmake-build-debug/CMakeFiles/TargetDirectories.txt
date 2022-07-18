@@ -1,0 +1,13 @@
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/CMakeFiles/test.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Program/CMakeFiles/rebuild_cache.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Program/CMakeFiles/edit_cache.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Program/CMakeFiles/Program.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Program/CMakeFiles/test.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/CMakeFiles/rebuild_cache.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/CMakeFiles/test.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/CMakeFiles/check.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/CMakeFiles/edit_cache.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/CMakeFiles/Library.dir
+/home/student/Pulpit/BlackJack/Projekt_1.0/cmake-build-debug/Library/CMakeFiles/LibraryTest.dir

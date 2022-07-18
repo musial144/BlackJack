@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BlackJack" targetName="LibraryTest" />
+      <config projectName="BlackJack" targetName="check" />
+      <config projectName="BlackJack" targetName="Library" />
+      <config projectName="BlackJack" targetName="Program" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="243a8cd0-7402-4597-8bf9-03270c37701f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+    <option name="clangWarnings" value="-Wno-unused-variable,-Werror=implicit-function-declaration,-Wshadow,-Wno-shadow-field-in-constructor-modified,-Wno-shadow-ivar,-Wno--Wunused-comparison" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1dpJ7Dx5EmrEBtwBhEKYlHUIkRY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="CMake Application.LibraryTest">
+    <configuration name="CardTest" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlackJack" TARGET_NAME="LibraryTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlackJack" RUN_TARGET_NAME="LibraryTest" TEST_CLASS="CardTestSuite" TEST_METHOD="CardTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandTest" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlackJack" TARGET_NAME="LibraryTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlackJack" RUN_TARGET_NAME="LibraryTest" TEST_CLASS="HandTestSuite" TEST_METHOD="HandTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getTest" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlackJack" TARGET_NAME="LibraryTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlackJack" RUN_TARGET_NAME="LibraryTest" TEST_CLASS="CardRepositoryTestSuite" TEST_METHOD="getTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="popCardTest" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlackJack" TARGET_NAME="LibraryTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlackJack" RUN_TARGET_NAME="LibraryTest" TEST_CLASS="CardRepositoryTestSuite" TEST_METHOD="popCardTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shuffleTest" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlackJack" TARGET_NAME="LibraryTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlackJack" RUN_TARGET_NAME="LibraryTest" TEST_CLASS="CardRepositoryTestSuite" TEST_METHOD="shuffleTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlackJack" TARGET_NAME="Library" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlackJack" TARGET_NAME="LibraryTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlackJack" RUN_TARGET_NAME="LibraryTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlackJack" TARGET_NAME="Program" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlackJack" RUN_TARGET_NAME="Program">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlackJack" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Boost.Test.CardTest" />
+      <item itemvalue="Boost.Test.HandTest" />
+      <item itemvalue="Boost.Test.getTest" />
+      <item itemvalue="Boost.Test.popCardTest" />
+      <item itemvalue="Boost.Test.shuffleTest" />
+      <item itemvalue="CMake Application.LibraryTest" />
+      <item itemvalue="CMake Application.Library" />
+      <item itemvalue="CMake Application.Program" />
+      <item itemvalue="CMake Application.check" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Boost.Test.CardTest" />
+        <item itemvalue="Boost.Test.HandTest" />
+        <item itemvalue="Boost.Test.getTest" />
+        <item itemvalue="Boost.Test.popCardTest" />
+        <item itemvalue="Boost.Test.shuffleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="243a8cd0-7402-4597-8bf9-03270c37701f" name="Default Changelist" comment="" />
+      <created>1593115935852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593115935852</updated>
+      <workItem from="1593115950324" duration="11640000" />
+      <workItem from="1593163375658" duration="4765000" />
+      <workItem from="1593190728400" duration="358000" />
+      <workItem from="1593236983393" duration="17836000" />
+      <workItem from="1593350434888" duration="1194000" />
+      <workItem from="1593431111814" duration="2924000" />
+      <workItem from="1593461781428" duration="6290000" />
+      <workItem from="1593495038255" duration="3724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="766" y="160" width="380" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1593191091586">
+      <screen x="0" y="0" width="1920" height="885" />
+    </state>
+    <state x="766" y="160" width="380" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1920.885@0.0.1920.885" timestamp="1593191091586" />
+    <state width="1864" height="222" key="GridCell.Tab.0.bottom" timestamp="1593468634495">
+      <screen x="0" y="0" width="1920" height="885" />
+    </state>
+    <state width="1864" height="222" key="GridCell.Tab.0.bottom/0.0.1920.885@0.0.1920.885" timestamp="1593468634495" />
+    <state width="1864" height="222" key="GridCell.Tab.0.center" timestamp="1593468634494">
+      <screen x="0" y="0" width="1920" height="885" />
+    </state>
+    <state width="1864" height="222" key="GridCell.Tab.0.center/0.0.1920.885@0.0.1920.885" timestamp="1593468634494" />
+    <state width="1864" height="222" key="GridCell.Tab.0.left" timestamp="1593468634494">
+      <screen x="0" y="0" width="1920" height="885" />
+    </state>
+    <state width="1864" height="222" key="GridCell.Tab.0.left/0.0.1920.885@0.0.1920.885" timestamp="1593468634494" />
+    <state width="1864" height="222" key="GridCell.Tab.0.right" timestamp="1593468634495">
+      <screen x="0" y="0" width="1920" height="885" />
+    </state>
+    <state width="1864" height="222" key="GridCell.Tab.0.right/0.0.1920.885@0.0.1920.885" timestamp="1593468634495" />
+    <state x="618" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1593495060699">
+      <screen x="0" y="0" width="1920" height="885" />
+    </state>
+    <state x="618" y="269" key="com.intellij.ide.util.TipDialog/0.0.1920.885@0.0.1920.885" timestamp="1593495060699" />
+  </component>
+</project>
